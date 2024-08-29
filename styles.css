@@ -161,6 +161,7 @@ input[type="file"] {
     }
 
     .sidebar {
+         margin-top: 1px;
         width: 100%;
         padding: 0px;
     }
