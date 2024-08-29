@@ -191,11 +191,11 @@ input[type="file"] {
     }
 
     #image-canvas {
-        height: 200px; 
+        height: 185px; 
     }
 
     #download-btn {
-        margin-top: 5px;
+        margin-top: 1px;
         margin-bottom: 20px; 
         width: 100%; 
     }
