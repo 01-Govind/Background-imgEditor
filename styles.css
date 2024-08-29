@@ -202,6 +202,7 @@ input[type="file"] {
     }
 
     .upload-btn {
+     margin-top: 1px;
         width: 100%;
         max-width: 300px; 
         margin-bottom: 5px;
