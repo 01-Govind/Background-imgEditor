@@ -160,6 +160,11 @@ input[type="file"] {
         height: auto; 
     }
 
+    .predefined-backgrounds{
+        margin-top: 1px;
+      }
+
+
     .sidebar {
          margin-top: 1px;
         width: 100%;
